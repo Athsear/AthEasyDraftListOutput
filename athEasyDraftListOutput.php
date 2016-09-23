@@ -1,10 +1,11 @@
 <?php
 /*
 Plugin Name: AthEasyDraftListOutputer
-Description: Output pre-post data by shortcord
+Description: Output draft article's title by shortcord
 Version: 1.0
 Author: Athsear'J.S.
 Author URI: https://profiles.wordpress.org/athsear
+
 */
 
 
