@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name: AthEasyDraftListOutputer
-Plugin URI: 
 Description: Output pre-post data by shortcord
 Version: 1.0
 Author: Athsear'J.S.
