@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: AthEasyDraftListOutputer
+Plugin Name: Ath Easy Draftlist Output
 Description: Output draft article's title by shortcord
 Version: 1.0
 Author: Athsear'J.S.
